@@ -1,0 +1,7 @@
+Anja;1;Nicki;Pucki;Wittchen;Alex
+Bertram;2;Alex;Nicki;Pucki;Wittchen;Hurrikan;Tornado;Sturmwind;Zausel;Zackzack
+Christa;3;Hurrikan
+Doris;1;Alex;Wittchen;Pucki
+Emil;1;Alex;Nicki;Pucki;Wittchen;Hurrikan;Tornado;Sturmwind;Zausel;Zackzack
+Fritz;3;Sturmwind;Hurrikan
+Gabi;2;Hurrikan;Alex;Sturmwind;Tornado

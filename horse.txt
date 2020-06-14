@@ -1,0 +1,9 @@
+Alex;1
+Nicki;2
+Pucki;1
+Wittchen;1
+Hurrikan;2
+Tornado;3
+Sturmwind;2
+Zausel;1
+Zackzack;3
